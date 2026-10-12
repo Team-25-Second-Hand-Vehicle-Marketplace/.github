@@ -11,6 +11,7 @@
 
 <p align="center">
   <a href="https://d35ak0s3rd3633.cloudfront.net"><img src="https://img.shields.io/badge/▶_Live_Demo-1b5fff?style=for-the-badge" alt="Live demo" /></a>
+  <a href="https://youtu.be/U6pDi2PnsIo"><img src="https://img.shields.io/badge/Watch_Demo-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch the demo on YouTube" /></a>
   <a href="https://github.com/Team-25-Second-Hand-Vehicle-Marketplace/AutoVaultLK"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" alt="Source code" /></a>
 </p>
 
@@ -25,6 +26,19 @@
 </p>
 
 ---
+
+### See it in action
+
+<p align="center">
+  <a href="https://youtu.be/U6pDi2PnsIo">
+    <img src="https://img.youtube.com/vi/U6pDi2PnsIo/maxresdefault.jpg" width="640" alt="Watch the AutoVault LK walkthrough on YouTube" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/U6pDi2PnsIo"><b>▶&nbsp; Watch the walkthrough</b></a><br/>
+  <sub><i>AutoVaultLK — A Smarter Way to Buy and Sell Vehicles in Sri Lanka</i></sub>
+</p>
 
 ### The problem
 
